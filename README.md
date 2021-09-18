@@ -48,16 +48,3 @@ FTB Team - Custom mods in CF packs
   <p align="center">
 BH Team - Illustrations
 </p>
-
-
-  <p align="center">
-NillerMedDild - Guidance with KubeJs Scripts
-</p>
-
-  <p align="center">
-Ridanisaurus - Guidance with KubeJs Scripts
-</p>
-
-  <p align="center">
-Anokka  - Unifying Emendatus Enigmatica and more!
-</p>
