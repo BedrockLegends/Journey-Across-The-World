@@ -1,4 +1,4 @@
-# Monumental Experience [![Curseforge][curseImg]][curseLink]
+# Pixelmon Adventures [![Curseforge][curseImg]][curseLink]
 
 [![Twitch Status](https://img.shields.io/twitch/status/ModernGamingWorld?label=ModernGamingWorld&style=social)](https://www.twitch.tv/moderngamingworld) [![Discord][discordimg]][discordlink]
 
@@ -6,23 +6,22 @@
 
 [discordLink]: https://discord.gg/wadcxefVA7
 
-[curseImg]: http://cf.way2muchnoise.eu/363581.svg
+[curseImg]: http://cf.way2muchnoise.eu/527831.svg
 
-[curseLink]: https://www.curseforge.com/minecraft/modpacks/monumental-experience
+[curseLink]: https://www.curseforge.com/minecraft/modpacks/bedrocklegends-presents-pixelmon-adventures
 
 
 ## About the Pack:
 <p align="center">
-  <img width="1124" height="200" src="https://i.imgur.com/DdbqfMJ.png">
+  <img width="280" height="64" src="https://i.imgur.com/JP9Vht3.png">
 </p>
 
 <p align="center">
-Welcome to Monumental Experience, where everything you ever loved about Minecraft is changed in a new Monumental way. Explore the world looking for the choicest biome both to build your magnificent structures but also to mine the most extraordinary ores! With your home front established, travel the world in search of treasures and untold magic and tech.
+Welcome to Pixelmon Adventures, Pixelmon Aventures is a Pixelmon Reforged modpack based around Adventure, Exploration, and Survival. Pixelmon Adventures will be built around Farming, Storage, Cosmetic, and Performance mods to make the Gameplay fun and Enjoyable.
 </p>
 
-
 <p align="center">
-  <img width="700" height="64" src="https://i.imgur.com/9iHRd6V.png">
+  <img width="280" height="70" src="https://i.imgur.com/D0TT2Cv.png">
 </p>
 
 
@@ -37,7 +36,7 @@ Use the Code “BedrockLegends”, and you will save 25% OFF on your first purch
 
 
 <p align="center">
-  <img width="278" height="64" src="https://www.bisecthosting.com/images/CF/Monumental_Experience/BH_ME_AddiitonalCredits.png">
+  <img width="280" height="64" src="https://i.imgur.com/NLWDIK1.png">
 </p>
 
 
