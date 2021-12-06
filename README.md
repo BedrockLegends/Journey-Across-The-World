@@ -1,6 +1,6 @@
-# Pixelmon Adventures [![Curseforge][curseImg]][curseLink]
+# Journey Across The World [![Curseforge][curseImg]][curseLink]
 
-[![Twitch Status](https://img.shields.io/twitch/status/ModernGamingWorld?label=ModernGamingWorld&style=social)](https://www.twitch.tv/moderngamingworld) [![Discord][discordimg]][discordlink]
+[![Twitch Status](https://img.shields.io/twitch/status/ModernGamingWorld?label=ModernGamingWorld&style=social)](https://www.twitch.tv/moderngamingworld)
 
 [discordImg]: https://img.shields.io/discord/554449878282010633?color=7289DA&label=BedrockLegends&style=flat-square
 
@@ -13,38 +13,28 @@
 
 ## About the Pack:
 <p align="center">
-  <img width="280" height="64" src="https://i.imgur.com/JP9Vht3.png">
-</p>
-
-<p align="center">
-Welcome to Pixelmon Adventures, Pixelmon Aventures is a Pixelmon Reforged modpack based around Adventure, Exploration, and Survival. Pixelmon Adventures will be built around Farming, Storage, Cosmetic, and Performance mods to make the Gameplay fun and Enjoyable.
-</p>
-
-<p align="center">
-  <img width="280" height="70" src="https://i.imgur.com/D0TT2Cv.png">
+  <img width="1125" height="343" src="https://www.bisecthosting.com/images/CF/Journey_Around_The_World/BH_JAW_Title.png">
 </p>
 
 
 <p align="center">
-  <img width="500" height="100" src="https://www.bisecthosting.com/partners/custom-banners/67e0a130-f195-4e06-850f-1f61faf0414f.png">
+Welcome to Journey Across The World, Journey Across The World is a Pixelmon Reforged mod pack based around Adventure, Exploration, and Survival. Journey Across The World will be built around Farming, Storage, Cosmetic, and Performance mods to make the Gameplay fun and Enjoyable.
+</p>
+
+
+<p align="center">
+  <img width="1125" height="93" src="https://www.bisecthosting.com/images/CF/Journey_Around_The_World/BH_JAW_Community.png">
+</p>
+
+
+[![Discord][discordimg]][discordlink]
+
+
+<p align="center">
+  <img width="1125" height="115" src="https://www.bisecthosting.com/images/CF/Journey_Around_The_World/BH_JAW_Bisect1.png">
 </p>
   
-  <p align="center">
-We have partnered with BisectHosting!!!
-Use the Code “BedrockLegends”, and you will save 25% OFF on your first purchase as a new client with Bisect Hosting!
-</p>
-
-
+  
 <p align="center">
-  <img width="280" height="64" src="https://i.imgur.com/NLWDIK1.png">
-</p>
-
-
-  <p align="center">
-FTB Team - Custom mods in CF packs
-</p>
-
-
-  <p align="center">
-BH Team - Illustrations
+  <img width="1125" height="211" src="https://www.bisecthosting.com/images/CF/Journey_Around_The_World/BH_JAW_Bisect2.png">
 </p>
