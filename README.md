@@ -30,6 +30,7 @@ Welcome to Journey Across The World, Journey Across The World is a Pixelmon Refo
 [![Discord][discordimg]][discordlink]
 
 
+
 <p align="center">
   <img width="1125" height="115" src="https://www.bisecthosting.com/images/CF/Journey_Around_The_World/BH_JAW_Bisect1.png">
 </p>
